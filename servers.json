@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "cinema",
+      "Group": "Servers",
+      "Port": 5432,
+      "Host": "db",
+      "Username": "cinema",
+      "SSLMode": "prefer",
+      "MaintenanceDB": "postgres"
+    }
+  }
+}
